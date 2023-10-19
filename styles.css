@@ -478,7 +478,7 @@ p {
     color: #ffe760;
     position: absolute;
     left: 17%;
-    top: 50%;
+    top: 70%;
     font-size: 70px;
     z-index: 5;
 }
@@ -487,7 +487,7 @@ p {
     color: white;
     position: absolute;
     left: -2.8%;
-    top: -10%;
+    top: -76%;
     font-size: 25px;
     font-style: italic;
 }
